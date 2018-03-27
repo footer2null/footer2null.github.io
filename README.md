@@ -1,2 +1,1 @@
-# footer2null.github.io
-42
+# MyFooter.github.io
