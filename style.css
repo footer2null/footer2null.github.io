@@ -9,7 +9,7 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
 #particles-js {height: 100%;background-color:;margin-top:100px;}
 
 
-.Ss {font-size:40px;margin-left:16%;font-family: 'Orbitron', sans-serif;text-decoration:none;line-height:40px;color:#333;}
+.Ss {font-size:40px;margin-left:16%;font-family: 'Orbitron', sans-serif;text-decoration:none;line-height:40px;color:black;}
 .Ss:hover {color:transparent;transition-property:all;transition-duration:2s;transition-timing-function:eas-in-out;}
 .VID {width:100%;height:auto;z-index:2;position}
 
