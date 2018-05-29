@@ -76,7 +76,7 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
     .ku7BLU {margin-top:-50px;margin-left:;width:50px;height:50px;background:;border-radius:50%;animation-name:kub;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite}
    .ku777 {margin-left:190px;width:15px;height:15px;background:#cecece;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}	
  
- .Ss {font-size:15px;line-height:20px;color:#333;} 
+ .Ss {font-size:15px;line-height:20px;color:black;} 
 .blockMars {margin-top:0px;border-radius:20px 20px 0px 0px} 
  .topMars {height:50px}	
   .imgMars {height:100px}	
@@ -100,7 +100,7 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
           .ku7BLU {margin-top:-100px;margin-left:;width:100px;height:100px;;border-radius:50%;animation-name:kub;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite}
          .ku777 {margin-left:320px;width:32px;height:32px;background:#cecece;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
         .shapka {margin-top:-400px;}
-       .Ss {line-height:40px;font-size:30px;color:#333;}	
+       .Ss {line-height:40px;font-size:30px;color:black;}	
       .imgMars {height:300px}	
      .blockMars {margin-top:0px;}
 	  }  
