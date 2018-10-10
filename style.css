@@ -18,20 +18,20 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
 .ku1sun:hover {animation-play-state:paused;}
 
 .ku2vener {margin-top:-300px;margin-left:;width:300px;height:300px;border-radius:50%;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
-.ku00 {background: #cecece;margin-left:350px;width:70px;height:70px;border-radius:50%;;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
+.ku00 {background:#f2c9e4;margin-left:350px;width:70px;height:70px;border-radius:50%;;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
 .ku2vener:hover {animation-play-state:paused;}
 
 .ku3zeml9 {margin-top:-400px;margin-left:;width:300px;height:300px;background;border-radius:50%;animation-name:kub;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
-.ku000 {margin-left:450px;width:90px;height:90px;border-radius:50%;background-color:#cecece;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite}
+.ku000 {margin-left:450px;width:90px;height:90px;border-radius:50%;background-color:#e8ff82;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite}
 .luna {margin:100px;width:30px;height:30px;background: linear-gradient(#c1bfbb,#7c7a75);border-radius:50%;}
 .ku3zeml9:hover {animation-play-state:paused;}
 
 .mars {margin-top:-300px;margin-left:;width:300px;height:300px;background:;border-radius:50%;animation-name:kubik;animation-duration:2.2s;animation-timing-function:linear;animation-iteration-count:infinite}
-.mars0000 {margin-left:600px;width:60px;height:60px;;border-radius:50%;background:#912100;animation-name:kub;animation-duration:2.2s;animation-timing-function:linear;}
+.mars0000 {margin-left:600px;width:60px;height:60px;;border-radius:50%;background:#ffd284;animation-name:kub;animation-duration:2.2s;animation-timing-function:linear;}
 .mars:hover {animation-play-state:paused;}
 
 .ku5jupiter {margin-top:-300px;margin-left:;width:300px;height:300px;background:;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
-.ku00000 {margin-left:700px;width:150px;height:150px;;border-radius:50%;background:#cecece;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
+.ku00000 {margin-left:700px;width:150px;height:150px;;border-radius:50%;background:#fff78e;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
 .ku5jupiter:hover {animation-play-state:paused;background:;}
 
 .ku6UFO {margin-top:-400px;margin-left:;width:300px;height:300px;;background:;;border-radius:50%;animation-name:kubik;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
@@ -41,7 +41,7 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
 
 
 .ku7BLU {margin-top:-100px;margin-left:;width:100px;height:100px;border-radius:50%;animation-name:kub;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite}
-.ku777 {margin-left:800px;width:90px;height:90px;background:#cecece;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
+.ku777 {margin-left:800px;width:90px;height:90px;background:#a749ff;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
 .ku7BLU:hover {animation-play-state:paused;}
 
 @keyframes kub{0%{transform:rotate (0deg)}100%{;transform: rotate(360deg)}}
@@ -62,19 +62,19 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
 .ku1sun {margin-top:100px;margin-left:;width:50px;height:50px;border-radius:50%;background-color:#ffc02b;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
  .ku0 {margin-left:45px;width:8px;height:8px;background:#f2e4c4;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
   .ku2vener {margin-top:-50px;margin-left:;width:50px;height:50px;border-radius:50%;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
-   .ku00 {margin-left:60px;width:12px;height:12px;border-radius:50%;background:#cecece;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
+   .ku00 {margin-left:60px;width:12px;height:12px;border-radius:50%;background:#f2c9e4;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
     .ku3zeml9 {margin-top:-70px;margin-left:;width:50px;height:50px;border-radius:50%;animation-name:kub;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
-     .ku000 {margin-left:80px;width:18px;height:18px;border-radius:50%;background-color:#cecece;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite}
+     .ku000 {margin-left:80px;width:18px;height:18px;border-radius:50%;background-color:#e8ff82;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite}
       .luna {margin:20px;width:6px;height:6px;background: linear-gradient(#c1bfbb,#7c7a75);border-radius:50%;}
        .mars {margin-top:-50px;margin-left:;width:50px;height:50px;background:;border-radius:50%;animation-name:kubik;animation-duration:2.2s;animation-timing-function:linear;animation-iteration-count:infinite}
-        .mars0000 {margin-left:110px;width:14px;height:14px;border-radius:50%;background:#912100;animation-name:kub;animation-duration:2.2s;animation-timing-function:linear;}
+        .mars0000 {margin-left:110px;width:14px;height:14px;border-radius:50%;background:#ffd284;animation-name:kub;animation-duration:2.2s;animation-timing-function:linear;}
          .ku5jupiter {margin-top:-50px;margin-left:;width:50px;height:50px;background:;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
-        .ku00000 {margin-left:130px;width:27px;height:27px;border-radius:50%;background-color:#cecece;;;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
+        .ku00000 {margin-left:130px;width:27px;height:27px;border-radius:50%;background-color:#fff78e;;;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
        .ku6UFO {margin-top:-150px;margin-left:;width:50px;height:50px;background:;border-radius:50%;animation-name:kubik;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
       .radial {margin-left:175px;width:0px;height:0px;border-radius:50%;background:silver;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
      .shar {width:20px;height:20px;border-radius:50%;background: linear-gradient(silver,silver);margin-top:100px}
     .ku7BLU {margin-top:-50px;margin-left:;width:50px;height:50px;background:;border-radius:50%;animation-name:kub;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite}
-   .ku777 {margin-left:190px;width:15px;height:15px;background:#cecece;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}	
+   .ku777 {margin-left:190px;width:15px;height:15px;background:#a749ff;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}	
  
  .Ss {font-size:15px;line-height:20px;color:black;} 
 .blockMars {margin-top:0px;border-radius:20px 20px 0px 0px} 
@@ -86,19 +86,19 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
 .ku1sun {margin-top:400px;margin-left:;width:100px;height:100px;border-radius:50%;background-color:#ffc02b;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
  .ku0 {margin-left:95px;width:15px;height:15px;background:#f2e4c4;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
   .ku2vener {margin-top:-100px;margin-left:;width:100px;height:100px;;border-radius:50%;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
-   .ku00 {margin-left:130px;width:20px;height:20px;border-radius:50%;background:#cecece;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
+   .ku00 {margin-left:130px;width:20px;height:20px;border-radius:50%;background:#f2c9e4;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
     .ku3zeml9 {margin-top:-140px;margin-left:;width:100px;height:100px;;border-radius:50%;animation-name:kub;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
-     .ku000 {margin-left:170px;width:30px;height:30px;border-radius:50%;background-color:#cecece;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite}
+     .ku000 {margin-left:170px;width:30px;height:30px;border-radius:50%;background-color:#e8ff82;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite}
       .luna {margin:40px;width:10px;height:10px;background: linear-gradient(#c1bfbb,#7c7a75);border-radius:50%;}
        .mars {margin-top:-100px;margin-left:;width:100px;height:100px;;border-radius:50%;animation-name:kubik;animation-duration:2.2s;animation-timing-function:linear;animation-iteration-count:infinite}
-        .mars0000 {margin-left:220px;width:23px;height:23px;border-radius:50%;background:#912100;animation-name:kub;animation-duration:2.2s;animation-timing-function:linear;}
+        .mars0000 {margin-left:220px;width:23px;height:23px;border-radius:50%;background:#ffd284;animation-name:kub;animation-duration:2.2s;animation-timing-function:linear;}
          .ku5jupiter {margin-top:-100px;margin-left:;width:100px;height:100px;;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
-          .ku00000 {margin-left:250px;width:50px;height:50px;border-radius:50%;background-color:#cecece;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
+          .ku00000 {margin-left:250px;width:50px;height:50px;border-radius:50%;background-color:#fff78e;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
            .ku6UFO {margin-top:-200px;margin-left:;width:100px;height:100px;;border-radius:50%;animation-name:kubik;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
             .radial {margin-left:290px;width:50px;height:10px;border-radius:50%;background:silver;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
            .shar {width:25px;height:25px;border-radius:50%;background: linear-gradient(silver,silver);margin-top:100px}
           .ku7BLU {margin-top:-100px;margin-left:;width:100px;height:100px;;border-radius:50%;animation-name:kub;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite}
-         .ku777 {margin-left:320px;width:32px;height:32px;background:#cecece;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
+         .ku777 {margin-left:320px;width:32px;height:32px;background:#a749ff;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
         .shapka {margin-top:-400px;}
        .Ss {line-height:40px;font-size:30px;color:black;}	
       .imgMars {height:300px}	
@@ -108,19 +108,19 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
 .ku1sun {margin-top:300px;margin-left:;width:50px;height:50px;border-radius:50%;background-color:#ffc02b;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
  .ku0 {margin-left:45px;width:8px;height:8px;background:#f2e4c4;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
   .ku2vener {margin-top:-50px;margin-left:;width:50px;height:50px;;border-radius:50%;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
-   .ku00 {margin-left:60px;width:12px;height:12px;border-radius:50%;background:#cecece;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
+   .ku00 {margin-left:60px;width:12px;height:12px;border-radius:50%;background:#f2c9e4;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
     .ku3zeml9 {margin-top:-70px;margin-left:;width:50px;height:50px;;border-radius:50%;animation-name:kub;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
-     .ku000 {margin-left:80px;width:18px;height:18px;border-radius:50%;background: #cecece;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite}
+     .ku000 {margin-left:80px;width:18px;height:18px;border-radius:50%;background:#e8ff82;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite}
       .luna {margin:20px;width:6px;height:6px;background: linear-gradient(#c1bfbb,#7c7a75);border-radius:50%;}
        .mars {margin-top:-50px;margin-left:;width:50px;height:50px;;border-radius:50%;animation-name:kubik;animation-duration:2.2s;animation-timing-function:linear;animation-iteration-count:infinite}
-        .mars0000 {margin-left:110px;width:14px;height:14px;;border-radius:50%;background:#912100;animation-name:kub;animation-duration:2.2s;animation-timing-function:linear;}
+        .mars0000 {margin-left:110px;width:14px;height:14px;;border-radius:50%;background:#ffd284;animation-name:kub;animation-duration:2.2s;animation-timing-function:linear;}
          .ku5jupiter {margin-top:-50px;margin-left:;width:50px;height:50px;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
-          .ku00000 {margin-left:130px;width:27px;height:27px;;border-radius:50%;background-color:#cecece;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
+          .ku00000 {margin-left:130px;width:27px;height:27px;;border-radius:50%;background-color:#fff78e;animation-name:kub;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
            .ku6UFO {margin-top:-150px;margin-left:;width:50px;height:50px;border-radius:50%;animation-name:kubik;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
             .radial {margin-left:175px;width:0px;height:0px;;border-radius:50%;;background:silver;;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
              .shar {width:20px;height:20px;border-radius:50%;background: linear-gradient(silver,silver);margin-top:100px}
               .ku7BLU {margin-top:-50px;margin-left:;width:50px;height:50px;border-radius:50%;animation-name:kub;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite}
-               .ku777 {margin-left:190px;width:15px;height:15px;background:#cecece;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
+               .ku777 {margin-left:190px;width:15px;height:15px;background:#a749ff;border-radius:50%;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
          .shapka {margin-top:-300px;height:25px;}    
 			     .Ss {line-height:40px;font-size:20px;line-height:20px;}
 			      .blockMars {margin-top:200px;}}
