@@ -9,12 +9,12 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
 #particles-js {height: 100%;background-color:;margin-top:100px;}
 
 
-.Ss {font-size:40px;margin-left:16%;font-family: 'Orbitron', sans-serif;text-decoration:none;line-height:40px;color:black;}
+.Ss {font-size:40px;margin-left:16%;font-family: 'Orbitron', sans-serif;text-decoration:none;line-height:40px;color:#fff0cc;}
 .Ss:hover {color:transparent;transition-property:all;transition-duration:2s;transition-timing-function:eas-in-out;}
 .VID {width:100%;height:auto;z-index:2;position}
 
-.ku1sun {margin-top:900px;margin-left:;width:300px;height:300px;border-radius:50%;background-color:black;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
-.ku0 {margin-left:250px;width:40px;height:40px;background:#cecece;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
+.ku1sun {margin-top:900px;margin-left:;width:300px;height:300px;border-radius:50%;background-color:#ffc02b;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
+.ku0 {margin-left:250px;width:40px;height:40px;background:#f2e4c4;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
 .ku1sun:hover {animation-play-state:paused;}
 
 .ku2vener {margin-top:-300px;margin-left:;width:300px;height:300px;border-radius:50%;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
@@ -59,8 +59,8 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
 
 	
 @media only screen and (max-width: 1300px){
-.ku1sun {margin-top:100px;margin-left:;width:50px;height:50px;border-radius:50%;background-color:black;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
- .ku0 {margin-left:45px;width:8px;height:8px;background:#cecece;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
+.ku1sun {margin-top:100px;margin-left:;width:50px;height:50px;border-radius:50%;background-color:#ffc02b;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
+ .ku0 {margin-left:45px;width:8px;height:8px;background:#f2e4c4;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
   .ku2vener {margin-top:-50px;margin-left:;width:50px;height:50px;border-radius:50%;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
    .ku00 {margin-left:60px;width:12px;height:12px;border-radius:50%;background:#cecece;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
     .ku3zeml9 {margin-top:-70px;margin-left:;width:50px;height:50px;border-radius:50%;animation-name:kub;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
@@ -83,8 +83,8 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
    .blockMars {margin-top:0px;}
 }
 @media only screen and (max-width: 2100px){
-.ku1sun {margin-top:400px;margin-left:;width:100px;height:100px;border-radius:50%;background-color:black;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
- .ku0 {margin-left:95px;width:15px;height:15px;background:#cecece;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
+.ku1sun {margin-top:400px;margin-left:;width:100px;height:100px;border-radius:50%;background-color:#ffc02b;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
+ .ku0 {margin-left:95px;width:15px;height:15px;background:#f2e4c4;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
   .ku2vener {margin-top:-100px;margin-left:;width:100px;height:100px;;border-radius:50%;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
    .ku00 {margin-left:130px;width:20px;height:20px;border-radius:50%;background:#cecece;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
     .ku3zeml9 {margin-top:-140px;margin-left:;width:100px;height:100px;;border-radius:50%;animation-name:kub;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
@@ -105,8 +105,8 @@ background-image: repeating-linear-gradient(-45deg, transparent, transparent 10p
      .blockMars {margin-top:0px;}
 	  }  
 @media only screen and (max-width: 800px){
-.ku1sun {margin-top:300px;margin-left:;width:50px;height:50px;border-radius:50%;background-color:black;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
- .ku0 {margin-left:45px;width:8px;height:8px;background:#cecece;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
+.ku1sun {margin-top:300px;margin-left:;width:50px;height:50px;border-radius:50%;background-color:#ffc02b;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
+ .ku0 {margin-left:45px;width:8px;height:8px;background:#f2e4c4;border-radius:50%;animation-name:kub;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}
   .ku2vener {margin-top:-50px;margin-left:;width:50px;height:50px;;border-radius:50%;animation-name:kubik;animation-duration:3s;animation-timing-function:linear;animation-iteration-count:infinite}
    .ku00 {margin-left:60px;width:12px;height:12px;border-radius:50%;background:#cecece;animation-name:kub;animation-duration:3s;animation-timing-function:linear;}
     .ku3zeml9 {margin-top:-70px;margin-left:;width:50px;height:50px;;border-radius:50%;animation-name:kub;animation-duration:2s;animation-timing-function:linear;animation-iteration-count:infinite}
