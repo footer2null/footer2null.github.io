@@ -2,7 +2,7 @@
 body {background: url(NeboBG.png);margin:0px;}
 
 .shapka {width:100%;height:40px;position:fixed;margin-top:-900px;z-index:1;background-color:transparent;
-background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(249, 207, 37,.5) 10px, rgba(249, 207, 37,.5) 20px);}
+background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(255, 255, 255,.5) 10px, rgba(255, 255, 255,.5) 20px);}
 
 .blockblock {width:100%;height:960px;background-color:#101721;}
 .buttonspack {margin-bottom: 200px;}
